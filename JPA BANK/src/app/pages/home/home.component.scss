@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  margin-top: 45px;
+  background-color: rgba(139, 144, 216, 0.11);
+  color: white;
+  padding: 15px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.botao {
+  background-color: #ffff;
+  border: none;
+  padding: 15px ; 
+  font-size: 18px; 
+  border-radius: 35px; 
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  
+
+}
+.background-image {
+  background-image: url('/assets/img/Banco.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 10px;
+}
+
+.sub{
+ 
+  padding:350px;
+}
+
+
